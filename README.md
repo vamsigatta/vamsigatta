@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Druvith Kumar Rao</h1>
+<h1 align="center">Hi 👋, I'm Vamsi Gatta</h1>
 <h3 align="center">A passionate Software Development Engineer from India</h3>
 
 <img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
@@ -8,7 +8,7 @@
 - 🎨 I have experience in **Frontend and Backend Development** with **Django, React.js, Node.js, Express.js**
 - 🔐 Skilled in **Website Penetration Testing** and familiar with various **security tools**
 - 🤖 Learning  **AI-Integrated Website Development**
-- 📚 Check out my projects on **[Project & work ](https://github.com/DhruvaRaoAS?tab=repositories)**
+- 📚 Check out my projects on **[Project & work ](https://github.com/vamsigatta)**
 - 👤 Previously interned at **Technical Hub and SAC Aditya (Frontend Developer) & GeeksforGeeks (Technical Content Writer)**
 - 📝 Published multiple articles on **GeeksforGeeks** related to Software Development
 - 💬 Ask me about **C++, DSA, HTML, CSS, JavaScript, Python, Machine Learning, and NLP**
